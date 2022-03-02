@@ -1,0 +1,398 @@
+h1{
+color: ivory;
+min-height: none;
+border: 1px solid black;
+min-width: auto;
+position: absolute;
+  left: 50px;
+  right:50px;
+  top:1.5cm;
+  bottom:auto;
+font-family:redemption;
+font-size: 500%;
+padding-top: 25%;
+padding-bottom: 25%;
+padding-left: 33%;
+padding-right: 33%;
+}
+h1{
+	background-image:url("cp4.jpg");
+background-size: cover;
+background-repeat:no-repeat;
+background-attachment: fixed;
+}
+h3{
+	color: white;
+	min-height: none;
+min-width: none;
+position: absolute;
+  left: 250px;
+  right:50px;
+  top: 275px;
+  bottom:auto;
+font-family:dosis;
+font-size: 150%;
+padding-top: 25%;
+padding-bottom: 25%;
+padding-left: 30%;
+padding-right: 20%;
+	
+}
+body{
+    
+    background-image:url("wheat\ color\ texture.jpg");
+    background-repeat:repeat;
+
+}
+section5{
+	color: white;
+	font-size: 150%;
+	font-family:dosis;
+	position: absolute;
+	top: 1.2cm;
+	left: 1.4cm;
+	border: 2px solid black;
+	padding:1%;
+}
+section1
+{
+	color: white;
+	font-size: 150%;
+	font-family:dosis;
+	position: absolute;
+	top: 1.2cm;
+	left: 20cm;
+	min-height: auto;
+	min-width: auto;
+	border: 2px solid black;
+	padding:1%;
+	
+}
+section2{
+	color: white;
+	font-size: 150%;
+	font-family: dosis;
+	position: absolute;
+	top: 1.2cm;
+	left: 24cm;
+	min-height: 30px;
+	min-width: 30px;
+	border: 2px solid black;
+	padding:1%;
+
+
+
+}	
+section3{
+	color: white;
+	font-size: 150%;
+	font-family:dosis;
+	position: absolute;
+	top: 1.2cm;
+	left: 28cm;
+	min-height: 30px;
+	min-width: 30px;
+	border: 2px solid black;
+	padding:1%;
+	
+
+}
+section4{
+	color: white;
+	font-size: 150%;
+	font-family:dosis;
+	position: absolute;
+	top: 1.2cm;
+	left: 610px;
+	min-height: 20px;
+	min-width: 20px;
+	border: 2px solid black;
+	padding:1%;
+
+
+}
+/* 
+img {
+	position:absolute;
+	top:890px;
+	left: 1030px;
+	size: 25px 15px;
+	max-height:90px;
+	max-width: 110px;
+
+}*/
+section6{
+	color: white;
+	font-size: 100%;
+	position: absolute;
+	top: 890px;
+	left: 50px;
+	border: 2px solid black;
+	padding:1%;
+}
+section7{
+	color: white;
+	font-size: 100%;
+	font-family:dosis;
+	position: absolute;
+	top: 705px;
+	left: 530px;
+	border: 2px solid white;
+	padding: 0.5%;
+}
+section7:hover{
+	color: white;
+	font-size: 200%;
+	font-family:dosis;
+	position: absolute;
+	top: 695px;
+	left: 470px;
+	border: 2px solid white;
+	padding: 0.5%;
+}
+section8{
+color:gold;
+font-family:dosis;
+font-size: 200%;
+max-width: 7cm;
+max-height: 6cm;
+background-image: url("sydney\ opera\ house.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+border: 2px solid black;
+position: absolute;
+text-align: center;
+ top: 25cm;
+ left: 5cm;
+
+}
+section9{
+    color:gold;
+    font-family:dosis;
+    font-size: 200%;
+    max-width: 7cm;
+    max-height: 6cm;
+    background-image: url("comm_pho.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 2px solid black;
+    position: absolute;
+    text-align: center;
+     top: 25cm;
+     left: 13cm;
+    
+}
+section10{
+    color: gold;
+font-family:dosis;
+font-size: 200%;
+max-width: 7cm;
+max-height: 6cm;
+background-image: url("eve_pho.jpeg");
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+border: 2px solid black;
+position: absolute;
+text-align: center;
+ top: 25cm;
+ left: 21cm;
+        
+}
+section11{
+    color:gold;
+font-family:dosis;
+font-size: 200%;
+max-width: 7cm;
+max-height: 6cm;
+background-image: url("fas_pho.png");
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+border: 2px solid black;
+position: absolute;
+text-align: center;
+ top: 32cm;
+ left: 5cm;
+        
+}
+   
+section12{
+    color:gold;
+font-family:dosis;
+font-size: 200%;
+max-width: 7cm;
+max-height: 6cm;
+background-image: url("foo_pho.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+border: 2px solid black;
+position: absolute;
+text-align: center;
+ top: 32cm;
+ left: 13cm;
+        
+}
+section13{
+    color: gold;
+font-family:dosis;
+font-size: 200%;
+max-width: 7cm;
+max-height: 6cm;
+background-image: url("por_pho.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+border: 2px solid black;
+position: absolute;
+text-align: center;
+ top: 32cm;
+ left: 21cm;
+        
+}
+section14{
+    color:gold;
+font-family:dosis;
+font-size: 200%;
+max-width: 7cm;
+max-height: 6cm;
+background-image: url("spo_pho.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+border: 2px solid black;
+position: absolute;
+text-align: center;
+ top: 39cm;
+ left: 5cm;
+        
+}
+section15{
+    color:gold;
+font-family:dosis;
+font-size: 200%;
+max-width: 7cm;
+max-height: 6cm;
+background-image: url("wed_pho.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+border: 2px solid black;
+position: absolute;
+text-align: center;
+ top: 39cm;
+ left: 13cm;
+        
+}
+section16{
+    color: gold;
+font-family:dosis;
+font-size: 200%;
+max-width: 7cm;
+max-height: 6cm;
+background-image: url("pet_pho.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+border: 2px solid black;
+position: absolute;
+text-align: center;
+ top: 39cm;
+ left: 21cm;
+        
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+    padding: 0.5cm;
+  }
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 0.5cm;
+  }
+  input[type=submit]:hover {
+    background-color: #45a049;
+  } 
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+ section17{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 150%;
+     border: 2px solid black;
+     background-color: #f2f2f2;
+     position:absolute ;
+     top:46cm;
+     left:18cm;
+     width: 10cm;
+     padding: 0.5cm;
+ }
+ 
+ input{
+    font-family: 'Times New Roman', Times, serif;
+    width:10cm;
+    max-height: 1cm;
+}
+textarea{
+    width: 10cm;
+}
+section18 {
+    position: fixed;
+    top:0cm;
+    left:0cm;
+    min-width: 32cm;
+    background: black;
+    color: white;
+    font-size: 30px;
+  }
+  p1{
+      text-align:left;
+  }
+  p2{
+      position: absolute;
+      left:10cm
+  }
+  p3{
+      background-image: url("facebook.png");
+      background-size: contain;
+      background-repeat: no-repeat;
+      position: absolute;
+      left:28cm;
+      color: white;
+      width:1cm;
+      height:1cm;
+  }
+  p5{
+    background-image: url("instagram.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left:29.2cm;
+    color: white;
+    width:1cm;
+    height:0.8cm;
+}
+  section19{
+      color: black;
+      font-family: dosis;
+      font-size: 200%;
+      position:absolute;
+      left:1.5cm;
+      top:46cm;
+      max-width: 15cm;
+  }
